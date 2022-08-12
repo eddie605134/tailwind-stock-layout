@@ -87,4 +87,4 @@ new TradingView.MediumWidget({
 
 /******/ })()
 ;
-//# sourceMappingURL=index.35b10c0ab1e2e7511fe7.js.map
+//# sourceMappingURL=index.5d40de0e4e4924b4af8f.js.map
